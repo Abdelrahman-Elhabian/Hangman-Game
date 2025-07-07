@@ -1,0 +1,13 @@
+{
+  "name": "hangman-game",
+  "version": "1.0.0",
+  "description": "A web-based implementation of the classic Hangman game",
+  "main": "index26.html",
+  "scripts": {
+    "build": "echo 'Build complete - static files ready'",
+    "start": "echo 'Open index26.html in your browser to play'"
+  },
+  "keywords": ["hangman", "game", "javascript", "html", "css"],
+  "author": "",
+  "license": "MIT"
+}
